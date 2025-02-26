@@ -24,6 +24,11 @@
             "img": "Monitor",
             "href": "https://agentdid127.com/",
             "alt": "Source Website"
+        },
+        {
+            "img": "Monitor",
+            "href": "https://coryborek.github.io/notes/",
+            "alt": "Markdown Notes"
         }
     ],
     "markdown": {
